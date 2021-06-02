@@ -3,5 +3,5 @@ cal
 date
 echo "next commit"
 echo "triggered Commit"
-whoami
+echo "triggered commit 3"
 pwd
